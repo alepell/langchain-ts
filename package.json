@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx src/02-prompt-template.ts",
+    "dev": "tsx src/01-basico.ts",
+    "dev2": "tsx src/02-prompt-template.ts",
+    "dev3": "tsx src/03-chain.ts",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
