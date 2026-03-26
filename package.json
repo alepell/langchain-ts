@@ -7,6 +7,7 @@
     "dev": "tsx src/01-basico.ts",
     "dev2": "tsx src/02-prompt-template.ts",
     "dev3": "tsx src/03-chain.ts",
+    "dev4": "tsx src/04-memoria.ts",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
